@@ -4,7 +4,7 @@ sys.path.append("C:\\Users\\diyaa\\AppData\\Local\\Programs\\Python\\Python311\\
 
 
 class News:
-    API_KEY = 'pub_38319c40b47afb505d0c0f977513b46505b86'
+    API_KEY = 'API KEY'
     """
 
     A class to interact with a news API and retrieve articles based on specific criteria.

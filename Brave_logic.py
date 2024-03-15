@@ -48,7 +48,7 @@ def fetch_news(api_key, query, count=10, country='us', search_lang='en', spellch
         return None
 
 # Example usage:
-api_key = "BSA5FZ_coCBe04igRP0zZjqZBIvHudd"
+api_key = "API KEY"
 query = "munich"
 news_data = fetch_news(api_key, query)
 print(news_data)  # This will print the JSON response from the API
